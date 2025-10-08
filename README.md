@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi there, I'm Andrew — AI Full-Stack Developer
 
-<!--
-**Talent-King/Talent-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a passionate **AI-powered Full-Stack Developer** focused on building smart, scalable, and high-performing applications — from voice agents and LLMs to full-stack web and mobile platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+With hands-on experience across **AI, NLP, and Web/Mobile Development**, I specialize in bridging intelligent systems with modern, user-friendly interfaces.
+
+I love creating:
+- 🤖 **AI-driven bots** and **voice agents** (LLM, NLP, STT, TTS, Generative AI)
+- 🗣️ **VoIP** and real-time communication platforms
+- 🌐 **Full-stack web apps** using the **MERN** and **Next.js** stacks
+- 📱 **Cross-platform mobile apps** (React Native, Flutter, Dart)
+- 🧩 **Backend systems** in **Python/Django** and **Node.js**
+- 🗃️ **Databases:** MySQL, PostgreSQL, MongoDB  
+- ⚡ Seamless integration of AI pipelines and APIs into production systems
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**
+> Python, JavaScript, TypeScript, Dart, Node.js, Django, React, Next.js, Flutter
+
+**AI / Machine Learning**
+> LLM, NLP, Generative AI, Speech-to-Text (STT), Text-to-Speech (TTS), Voice Agent Development
+
+**Web & Mobile**
+> MERN, React Native, Flutter, Redux, RESTful APIs, WebSocket, VoIP
+
+**Databases**
+> MySQL, PostgreSQL, MongoDB
+
+**Other Tools**
+> Docker, Git, CI/CD, AWS, Firebase
+
+---
+
+## 🚀 Featured Focus Areas
+
+- 🧩 **LLM & NLP Engineering** — Custom model integration, chatbot pipelines, AI APIs  
+- 🎙️ **Voice AI Systems** — STT, TTS, real-time call handling, intelligent assistants  
+- 🌍 **Web Platforms** — Next.js / Node.js / Django-based enterprise systems  
+- 📱 **Mobile Applications** — Scalable cross-platform solutions  
+- 🧱 **Backend APIs** — Secure and high-performance REST / GraphQL systems
+
+---
+
+## 💬 Let’s Connect
+
+I’m always open to discussing **AI automation, voice tech, and full-stack app development**.  
+If you’re building something innovative — let’s make it happen!  
+
+📧 **andrew.rammit@example.com**  
+💼 [Upwork Profile](https://www.upwork.com/freelancers/~yourprofile)  
+🌐 [Portfolio Website](https://yourwebsite.com)  
+🐙 [GitHub](https://github.com/yourusername)
+
+---
+
+💡 *“Building intelligent systems that sound, think, and perform like humans — one line of code at a time.”*  
+Made with ❤️ by **Andrew Rammit**
