@@ -49,15 +49,26 @@ I love creating:
 
 ---
 
+
+## Top Stacks
+
+<div align="center">
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Talent-King&theme=tokyonight" />
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Talent-King&theme=tokyonight" />
+    <!--<img width="98%" src="https://streak-stats.demolab.com?user=Talent-King&theme=tokyonight&hide_border=true" alt="GuilhermeWerner" />-->
+</div>
+
+<hr/>
+
+
 ## 💬 Let’s Connect
 
 I’m always open to discussing **AI automation, voice tech, and full-stack app development**.  
 If you’re building something innovative — let’s make it happen!  
 
-📧 **andrew.rammit@example.com**  
-💼 [Upwork Profile](https://www.upwork.com/freelancers/~yourprofile)  
-🌐 [Portfolio Website](https://yourwebsite.com)  
-🐙 [GitHub](https://github.com/yourusername)
+📧 **Healer528118@gmail.com**  
+🌐 [Portfolio Website](https://Talent-King.vercel.com)  
+🐙 [GitHub](https://github.com/Talent-King)
 
 ---
 
