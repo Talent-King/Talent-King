@@ -1,75 +1,161 @@
-<!-- 👋 Personal GIF banner -->
+<!-- 🌌 Animated Banner -->
 <div align="center">
-  <img src="234611068-6003b206-c13e-4264-a43e-bfba84fff427.gif" width="100%" alt="AI Developer at work" />
+  <img src="234611068-6003b206-c13e-4264-a43e-bfba84fff427.gif" width="100%" alt="Senior AI Developer at work" />
 </div>
 
 ---
 
-# 👋 Hey there, I’m **Andrew Rammit** - Your Friendly AI Full-Stack Developer 🤖
+### 🧠 Senior AI & Full-Stack Developer | Voice + Vision + Intelligence Systems
 
-Welcome to my digital playground on GitHub!  
-I build **AI-powered full-stack systems** that *talk, think, and scale*.  
-From **voice assistants** to **smart web and mobile apps**, I love turning futuristic ideas into production-ready products.
+> “I build software that *thinks, speaks, and scales* — and sometimes even makes coffee ☕”
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I’m an **AI & Full-Stack Developer** who enjoys mixing creativity with code.  
-Whether it’s crafting an intelligent chatbot or building a seamless mobile experience, I aim to make tech feel a little more *human*.
+This is a **Senior AI Engineer & Full-Stack Developer** with a passion for making technology feel *alive*.  
+From **intelligent chat systems** to **voice-driven apps** and **scalable platforms**,  
+I combine creativity, code, and caffeine to build things that make people go: *“wait… it can do that?”*
 
-**I specialize in:**
-- 🤖 **AI-Driven Systems** - LLMs, NLP, STT, TTS, and Generative AI magic ✨  
-- 🗣️ **Voice + VoIP Platforms** - Real-time call handling & smart voice bots  
-- 🌐 **Full-Stack Web Apps** - Built with MERN, Next.js, or Django  
-- 📱 **Mobile Apps** - Cross-platform with React Native or Flutter  
-- ⚙️ **Backends That Fly** - Node.js, Django, FastAPI, scalable APIs  
-- 🗃️ **Databases:** MySQL, PostgreSQL, MongoDB  
+💡 **Core Focus Areas:**
+- 🤖 **AI & Machine Learning** – NLP, LLMs, and custom OpenAI integrations  
+- 🗣️ **Voice + Streaming Systems** – Real-time STT/TTS, GStreamer, WebRTC  
+- 🌐 **Full-Stack Platforms** – Next.js, Node.js, Django, scalable backends  
+- 📱 **Mobile Development** – Flutter & React Native for cross-platform magic  
+- ⚙️ **Cloud Architecture** – AWS, GCP, Firebase, Docker, CI/CD pipelines  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Arsenal
+
+<table align="center">
+<tr>
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,opencv&theme=dark" height="45"><br/>
+<b>AI, ML, DL & NLP</b><br/>
+<sub>LLMs · Deep Learning · Generative AI · Model Integration</sub>
+</td>
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=openai,langchain,huggingface&theme=dark" height="45"><br/>
+<b>AI Frameworks</b><br/>
+<sub>OpenAI · ChatGPT · LangChain · Hugging Face</sub>
+</td>
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css&theme=dark" height="45"><br/>
+<b>Front-End Development</b><br/>
+<sub>Next.js · React · Modern UI · State Management</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,nestjs,graphql&theme=dark" height="45"><br/>
+<b>Back-End Development</b><br/>
+<sub>APIs · Realtime Backends · Microservices</sub>
+</td>
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,dart,swift,kotlin&theme=dark" height="45"><br/>
+<b>Mobile Development</b><br/>
+<sub>Cross-Platform · Native Performance · Smooth UX</sub>
+</td>
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=webrtc,nginx,ffmpeg,obsstudio&theme=dark" height="45"><br/>
+<b>Voice, Realtime & Streaming</b><br/>
+<sub>WebRTC · GStreamer · RTMP · Live Communication</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,swift,ts,js,cpp&theme=dark" height="45"><br/>
+<b>Programming Languages</b><br/>
+<sub>Multi-Paradigm Expertise · Frontend to AI Systems</sub>
+</td>
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,linux,firebase,vercel&theme=dark" height="45"><br/>
+<b>Cloud & DevOps</b><br/>
+<sub>Scalable Deployments · CI/CD · Containerization</sub>
+</td>
+<td align="center" width="220">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="45"><br/>
+<b>Databases</b><br/>
+<sub>SQL · NoSQL · High-Performance Data Design</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🪄 Featured Focus Areas
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,ai&theme=dark" height="40"><br/>
+<b>LLM & NLP Engineering</b><br/>
+<sub>Custom pipelines, embeddings, prompt chains</sub>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=nodejs,react,python&theme=dark" height="40"><br/>
+<b>Voice AI Systems</b><br/>
+<sub>Real-time conversations that sound human</sub>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=nextjs,django,graphql&theme=dark" height="40"><br/>
+<b>Full-Stack Web Platforms</b><br/>
+<sub>Next.js • Django • GraphQL microservices</sub>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=flutter,react,dart&theme=dark" height="40"><br/>
+<b>Mobile Development</b><br/>
+<sub>Cross-platform apps that users actually love</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Developer Stats
+
+<div align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Talent-King&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Talent-King&theme=tokyonight" />
+</div>
+
+---
+
+## 💬 Connect With Me
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+📧<br/>
+<b>Email</b><br/>
+<sub><a href="mailto:Healer528118@gmail.com">Healer528118@gmail.com</a></sub>
+</td>
+<td align="center" width="200">
+🌐<br/>
+<b>Portfolio</b><br/>
+<sub><a href="https://Talent-King.vercel.app">Talent-King</a></sub>
+</td>
+<td align="center" width="200">
+🐙<br/>
+<b>GitHub</b><br/>
+<sub><a href="https://github.com/Talent-King">Talent-King</a></sub>
+</td>
+<td align="center" width="200">
+💼<br/>
+<b>LinkedIn</b><br/>
+<sub><a href="#">Your LinkedIn</a></sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,flutter,django,mongodb,mysql,postgres,git,docker,aws,firebase&theme=dark" alt="Tech Stack" />
+Have a project in <b>AI, automation, or voice tech</b>? Let’s build something smart… and maybe a little quirky. 😄
 </p>
 
----
-
-## 🚀 Featured Focus Areas
-
-- 🧩 **LLM & NLP Engineering** - Integrating custom models and AI pipelines  
-- 🎙️ **Voice AI Systems** - Real-time, human-like communication experiences  
-- 🌍 **Web Platforms** - Robust apps with Next.js, Node.js, or Django  
-- 📱 **Mobile Development** - Beautiful, scalable cross-platform apps  
-- 🧱 **Backend APIs** - REST & GraphQL services that just don’t crash 😎  
 
 ---
 
-## 📊 GitHub Summary
 
-<div align="center">
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Talent-King&theme=tokyonight" />
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Talent-King&theme=tokyonight" />
-    <!--<img width="98%" src="https://streak-stats.demolab.com?user=Talent-King&theme=tokyonight&hide_border=true" alt="streak stats" />-->
-</div>
-
-<hr/>
-
-<a href="#"><img src="contributions.svg" alt="GitHub Contributions" /></a>
-
----
-
-## 💬 Let’s Connect
-
-Got an idea that involves **AI, automation, or voice tech**?  
-Let’s make something brilliant (and maybe slightly weird) together.  
-
-📧 **Healer528118@gmail.com**  
-🌐 [Portfolio Website](https://Talent-King.vercel.com)  
-🐙 [GitHub](https://github.com/Talent-King)
-
----
-
-> 💡 *“Building intelligent systems that sound, think, and perform like humans - one line of code at a time.”*  
-> Made with ❤️ (and caffeine) by **Andrew Rammit**
