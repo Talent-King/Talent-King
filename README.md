@@ -60,6 +60,10 @@ I love creating:
 
 <hr/>
 
+<a href=#><img src="contributions.svg"></a>
+
+<hr/>
+
 
 ## 💬 Let’s Connect
 
