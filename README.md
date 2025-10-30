@@ -129,24 +129,22 @@ I combine creativity, code, and caffeine to build things that make people go: *�
 <table align="center">
 <tr>
 <td align="center" width="200">
+<sub><a href="mailto:Healer528118@gmail.com">
 📧<br/>
 <b>Email</b><br/>
-<sub><a href="mailto:Healer528118@gmail.com">Healer528118@gmail.com</a></sub>
+</a></sub>
 </td>
 <td align="center" width="200">
-🌐<br/>
+<sub><a href="https://Talent-King.vercel.app">
+  🌐<br/>
 <b>Portfolio</b><br/>
-<sub><a href="https://Talent-King.vercel.app">Talent-King</a></sub>
+</a></sub>
 </td>
 <td align="center" width="200">
+<sub><a href="https://github.com/Talent-King">
 🐙<br/>
 <b>GitHub</b><br/>
-<sub><a href="https://github.com/Talent-King">Talent-King</a></sub>
-</td>
-<td align="center" width="200">
-💼<br/>
-<b>LinkedIn</b><br/>
-<sub><a href="#">Your LinkedIn</a></sub>
+</a></sub>
 </td>
 </tr>
 </table>
