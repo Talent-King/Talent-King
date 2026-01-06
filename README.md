@@ -135,7 +135,7 @@ I combine creativity, code, and caffeine to build things that make people go: *â
 </a></sub>
 </td>
 <td align="center" width="200">
-<sub><a href="https://Talent-King.vercel.app">
+<sub><a href="[https://Talent-King.vercel.app](https://my-essence-folio-ap2l-d3el1655q-healers-projects-fbdad169.vercel.app/)">
   ğŸŒ<br/>
 <b>Portfolio</b><br/>
 </a></sub>
